@@ -35,6 +35,7 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 
+- <img src = "imgs\x80_security.png" width="16px" />   <samp>Machine Learning and Software Dev Intern<br>
 - <img src = "imgs/manaslogo.png" width="15px" />   <samp>AI Member of Project Manas<br>
 - 🔬 <samp>Research Intern at Manipal Institute of Technology<br>
 - 🕵🏻 <samp>AI Intern at Innovation Center Manipal(September 2020 - December 2020)<br>

@@ -1,4 +1,5 @@
-# **Hey Everyone! I'm [Kaustav Sarkar](https://github.com/Kaustav-Sarkar)** <img src="imgs/Hi.gif" width="25px">
+# <center>**Hey Everyone! I'm [Kaustav Sarkar](https://github.com/Kaustav-Sarkar)** <img src="imgs/Hi.gif" width="25px"></center>
+# <center>**[Portfolio](https://kaustav-sarkar-portfolio.netlify.app/)** </center>
 <br><br>
 &nbsp;
 <a href="https://www.linkedin.com/in/kaustavsarkar">
@@ -23,50 +24,49 @@
 <br><br>
 ![](imgs/header_.png)
 
-## <p align="center"><b><h3 align="center"><samp>A Geek who loves to solve problems and have fun while doing it. My interests mostly lie in Machine Learning, Computer vision and Deep Learning. I am currently improving my NLP skills and Competitive coding</samp></h3></b></p>
+## <p align="center"><b><h3 align="center"><samp>I am a problem solver and tech enthusiast with a keen interest in software development, cloud computing, and emerging technologies. I enjoy exploring different domains and solving challenging problems. Constant learning and growth are my primary driving forces in this ever-changing technological landscape.</samp></h3></b></p>
 
 <div>
 <img align="right" src="imgs/ai.gif" width="40%" >
   <br>
 </div>
 <div>
-- 👷 <samp>Currently pursuing B.Tech in Information Technology(2019-2023) from Manipal Institute of Technology
+- 👷 <samp>SDE Intern at Cloudera
 </div>
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-
-- <img src = "imgs\x80_security.png" width="16px" />   <samp>Machine Learning and Software Dev Intern<br>
-- <img src = "imgs/manaslogo.png" width="15px" />   <samp>AI Member of Project Manas<br>
-- 🔬 <samp>Research Intern at Manipal Institute of Technology<br>
-- 🕵🏻 <samp>AI Intern at Innovation Center Manipal(September 2020 - December 2020)<br>
+- <img src = "imgs/cloudera.png" width="16px" />   <samp>Software Developer Intern (Jan 2023 - Present)<br>
+- <img src = "imgs/x80_security.png" width="16px" />   <samp>Software Developer and Cloud Devops Intern (Sep 2021 - Jan 2023)<br>
+- <img src = "imgs/ibmlogo.png" width="16px" />   <samp>Software Developer GRM Intern (May 2022 - July 2022)<br>
+- <img src = "imgs/manaslogo.png" width="15px" />   <samp>AI Member of Project Manas (May 2021 - July 2022)<br>
+- 🔬 <samp>Research Intern at Manipal Institute of Technology (Mar 2021- Sep 2021)<br>
+- 🕵🏻 <samp>AI Intern at Innovation Center Manipal(Sep 2020 - Dec 2020)<br>
 
 </div>
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-<!-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white) -->
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
+![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
 
 <span>
 <img src="imgs/c.svg" alt="drawing" width="50"/>
 <img src="imgs/python-5.svg" alt="drawing" width="50"/>
-<!-- <img src="imgs/mysql-6.svg" alt="drawing" width="50"/> -->
+<img src="imgs/mysql-6.svg" alt="drawing" width="50"/>
 <img src="imgs/readme.svg" alt="drawing" width="50"/>
 <img src="imgs/html.svg" alt="drawing" width="50"/>
 <img src="imgs/tensorflow.svg" alt="drawing" width="50"/>
 <img src="imgs/sklearn.svg" alt="drawing" width="80"/>
 <img src="imgs/ros.svg" alt="drawing" width="100"/>
 <img src="imgs/keras.svg" alt="drawing" width="40"/>
-<!-- <img src="imgs/css.svg" alt="drawing" width="50"/>
-<img src="imgs/javascript.svg" alt="drawing" width="50"/> -->
+<img src="imgs/css.svg" alt="drawing" width="50"/>
+<img src="imgs/javascript.svg" alt="drawing" width="50"/>
 <!-- <img src="imgs/wolfram-language.svg" alt="drawing" width="50"/> -->
   </span>
     
@@ -119,7 +119,7 @@
 </p>
 
 ### 📈 GitHub Activity:
-  <a href="https://github.com/kaustav-sarkar/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaustav-sarkar&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
 <br>
 <br>
 

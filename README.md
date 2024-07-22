@@ -31,11 +31,11 @@
   <br>
 </div>
 <div>
-- 👷 <samp>SDE Intern at Cloudera
+- 👷 <samp>SDE at Cloudera
 </div>
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- <img src = "imgs/cloudera.png" width="16px" />   <samp>Software Developer Intern (Jan 2023 - Present)<br>
+- <img src = "imgs/cloudera.png" width="16px" />   <samp>Software Developer (Jan 2023 - Present)<br>
 - <img src = "imgs/x80_security.png" width="16px" />   <samp>Software Developer and Cloud Devops Intern (Sep 2021 - Jan 2023)<br>
 - <img src = "imgs/ibmlogo.png" width="16px" />   <samp>Software Developer GRM Intern (May 2022 - July 2022)<br>
 - <img src = "imgs/manaslogo.png" width="15px" />   <samp>AI Member of Project Manas (May 2021 - July 2022)<br>

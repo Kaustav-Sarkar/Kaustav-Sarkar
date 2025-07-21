@@ -160,7 +160,7 @@
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/kaustav-sarkar/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=kaustav-sarkar" />
 </p>
   
 ![](/imgs/bottom_header.svg)

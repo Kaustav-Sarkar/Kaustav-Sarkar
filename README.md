@@ -137,8 +137,8 @@
 <p align="center">
   <a href="https://github.com/kaustav-sarkar"><span>
     <img height="48%" src="https://github-readme-stats.vercel.app/api?username=kaustav-sarkar&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav-sarkar&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaustav-sarkar&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img width="48%" src="https://streak-stats.demolab.com/?user=kaustav-sarkar&theme=radical" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kaustav-sarkar&hide=scss&layout=compact&langs_count=8&theme=radical"/>
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaustav-sarkar&theme=dracula" />
     </span></a>
 </p>

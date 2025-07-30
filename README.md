@@ -1,6 +1,6 @@
 # <center>**Hey Everyone! I'm [Kaustav Sarkar](https://github.com/Kaustav-Sarkar)** <img src="imgs/Hi.gif" width="25px"></center>
 
-# <center>**[Portfolio](https://kaustav-sarkar.com)** </center>
+# <center>**[Portfolio](https://kaustavsarkar.dev)** </center>
 
 <br><br>
 &nbsp;
@@ -34,16 +34,14 @@
 </div>
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- <img src="imgs/cloudera.png" alt="Cloudera" width="16px" /> <samp>SDE-2 at Cloudera (Feb 2025 - Present)
-<br>
-- <img src="imgs/cloudera.png" alt="Cloudera" width="16px" />   <samp>SDE at Cloudera (Aug 2023 - Feb 2025)<br>
-- <img src="imgs/cloudera.png" alt="Cloudera" width="16px" />   <samp>SDE Intern at Cloudera (Jan 2023 - Aug 2023)<br>
-- <img src="imgs/x80_security.png" alt="X80 Security" width="16px" />   <samp>Cloud DevOps Intern at X80-security (Sep 2021 - Jan 2023)<br>
-- <img src="imgs/ibmlogo.png" alt="IBM" width="16px" />   <samp>SDE Intern at IBM (May 2022 - July 2022)<br>
-- <img src="imgs/manaslogo.png" alt="Manas" width="15px" />   <samp>AI Member of Project Manas (May 2021 - July 2022)<br>
-- 🔬 <samp>Research Intern at Manipal Institute of Technology (Mar 2021 - Sep 2021)<br>
-- 🕵🏻 <samp>AI Intern at Innovation Center Manipal (Sep 2020 - Dec 2020)<br>
-
+- <img src="imgs/cloudera.png" alt="Cloudera" width="20px" /> <samp>SDE-2 at Cloudera (Feb 2025 - Present)</samp><br>
+- <img src="imgs/cloudera.png" alt="Cloudera" width="20px" />   <samp>SDE at Cloudera (Aug 2023 - Feb 2025)</samp><br>
+- <img src="imgs/cloudera.png" alt="Cloudera" width="20px" />   <samp>SDE Intern at Cloudera (Jan 2023 - Aug 2023)</samp><br>
+- <img src="imgs/x80_security.png" alt="X80 Security" width="20px" />   <samp>Cloud DevOps Intern at X80-security (Sep 2021 - Jan 2023)</samp><br>
+- <img src="imgs/ibmlogo.png" alt="IBM" width="20px" />   <samp>SDE Intern at IBM (May 2022 - July 2022)</samp><br>
+- <img src="imgs/manaslogo.png" alt="Manas" width="20px" />   <samp>AI Member of Project Manas (May 2021 - July 2022)</samp><br>
+- 🔬 <samp>Research Intern at Manipal Institute of Technology (Mar 2021 - Sep 2021)</samp><br>
+- 🕵🏻 <samp>AI Intern at Innovation Center Manipal (Sep 2020 - Dec 2020)</samp><br>
 </div>
 
 ##
